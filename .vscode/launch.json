@@ -10,10 +10,7 @@
          "request": "launch",
          "program": "${workspaceFolder}/a.out",
          "args": [],
-         "stopAtEntry": false,
          "cwd": "${workspaceFolder}",
-         "environment": [],
-         "externalConsole": true,
          "MIMode": "gdb",
          "miDebuggerPath": "/usr/bin/gdb",
          "setupCommands": [
